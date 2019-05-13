@@ -26,6 +26,7 @@ public class baseTest {
 		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
 	}
 	
+	//AfterMethod
 	@AfterMethod
 	public void quitBrowser() {
 		driver.quit();
