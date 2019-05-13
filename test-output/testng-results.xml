@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-05-13T11:11:38Z" name="Default suite" finished-at="2019-05-13T11:13:25Z" duration-ms="106156">
+    <groups>
+    </groups>
+    <test started-at="2019-05-13T11:11:38Z" name="Default test" finished-at="2019-05-13T11:13:25Z" duration-ms="106156">
+      <class name="FreeCRM_TestScenarios.HomePage_Test">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:FreeCRM_TestScenarios.HomePage_Test@1a0dcaa]" started-at="2019-05-13T16:41:38Z" name="invokeBrowser" finished-at="2019-05-13T16:42:05Z" duration-ms="26903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:FreeCRM_TestScenarios.HomePage_Test@1a0dcaa]" started-at="2019-05-13T16:42:05Z" name="setup" finished-at="2019-05-13T16:42:15Z" duration-ms="10151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="navigateToContactNewContact()[pri:0, instance:FreeCRM_TestScenarios.HomePage_Test@1a0dcaa]" started-at="2019-05-13T16:42:15Z" name="navigateToContactNewContact" finished-at="2019-05-13T16:42:18Z" duration-ms="2820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToContactNewContact -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:FreeCRM_TestScenarios.HomePage_Test@1a0dcaa]" started-at="2019-05-13T16:42:18Z" name="quitBrowser" finished-at="2019-05-13T16:42:21Z" duration-ms="2557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:FreeCRM_TestScenarios.HomePage_Test@1a0dcaa]" started-at="2019-05-13T16:42:21Z" name="invokeBrowser" finished-at="2019-05-13T16:42:30Z" duration-ms="9370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:FreeCRM_TestScenarios.HomePage_Test@1a0dcaa]" started-at="2019-05-13T16:42:30Z" name="setup" finished-at="2019-05-13T16:42:39Z" duration-ms="9138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="navigatetoCompaniesNewCompany()[pri:0, instance:FreeCRM_TestScenarios.HomePage_Test@1a0dcaa]" started-at="2019-05-13T16:42:39Z" name="navigatetoCompaniesNewCompany" finished-at="2019-05-13T16:42:42Z" duration-ms="2766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetoCompaniesNewCompany -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:FreeCRM_TestScenarios.HomePage_Test@1a0dcaa]" started-at="2019-05-13T16:42:42Z" name="quitBrowser" finished-at="2019-05-13T16:42:45Z" duration-ms="2392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:FreeCRM_TestScenarios.HomePage_Test@1a0dcaa]" started-at="2019-05-13T16:42:45Z" name="invokeBrowser" finished-at="2019-05-13T16:42:55Z" duration-ms="10955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:FreeCRM_TestScenarios.HomePage_Test@1a0dcaa]" started-at="2019-05-13T16:42:55Z" name="setup" finished-at="2019-05-13T16:43:01Z" duration-ms="5800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyAddCalendar()[pri:0, instance:FreeCRM_TestScenarios.HomePage_Test@1a0dcaa]" started-at="2019-05-13T16:43:01Z" name="verifyAddCalendar" finished-at="2019-05-13T16:43:01Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddCalendar -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:FreeCRM_TestScenarios.HomePage_Test@1a0dcaa]" started-at="2019-05-13T16:43:01Z" name="quitBrowser" finished-at="2019-05-13T16:43:02Z" duration-ms="1055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:FreeCRM_TestScenarios.HomePage_Test@1a0dcaa]" started-at="2019-05-13T16:43:02Z" name="invokeBrowser" finished-at="2019-05-13T16:43:12Z" duration-ms="9538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:FreeCRM_TestScenarios.HomePage_Test@1a0dcaa]" started-at="2019-05-13T16:43:12Z" name="setup" finished-at="2019-05-13T16:43:18Z" duration-ms="6296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyaddBoxesPopUpdisplayed()[pri:0, instance:FreeCRM_TestScenarios.HomePage_Test@1a0dcaa]" started-at="2019-05-13T16:43:18Z" name="verifyaddBoxesPopUpdisplayed" finished-at="2019-05-13T16:43:24Z" duration-ms="5329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaddBoxesPopUpdisplayed -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:FreeCRM_TestScenarios.HomePage_Test@1a0dcaa]" started-at="2019-05-13T16:43:24Z" name="quitBrowser" finished-at="2019-05-13T16:43:25Z" duration-ms="1056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- FreeCRM_TestScenarios.HomePage_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

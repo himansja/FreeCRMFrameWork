@@ -1,0 +1,5 @@
+FreeCRM_Base\baseTest.class
+FreeCRM_PO\FreeCRMLoginPO.class
+FreeCRM_PO\FreeCRMHomePagePO.class
+FreeCRM_Modules\LoginModule.class
+FreeCRM_Modules\HomePageModule.class
